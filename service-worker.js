@@ -5,7 +5,7 @@ if (typeof importScripts === 'function') {
   /* global workbox */
   if (workbox) {
     // Will be replaced by make-service-worker.js to include the proper version.
-    const VersionMetadata = {"version":"5.0.127","gitHash":"942dc0a5395c7d8fb1caba3317bdf88234680dbd","versionWithHash":"5.0.127-942dc0a5395c7d8fb1caba3317bdf88234680dbd"};
+    const VersionMetadata = {"version":"5.0.127","gitHash":"b988d55c8c31e5a6fb63ba0cb8be1de7460bbbf1","versionWithHash":"5.0.127-b988d55c8c31e5a6fb63ba0cb8be1de7460bbbf1"};
 
     // Contrary to other static assets (JS, CSS, HTML), libGD.js/wasm are not
     // versioned in their filenames. Instead, we version using a query string
@@ -37,7 +37,7 @@ if (typeof importScripts === 'function') {
   },
   {
     "url": "index.html",
-    "revision": "1d21c4a8018f447d6fcad93d97377b42"
+    "revision": "2a70844ba1eca4d3b587355b7abd0be9"
   },
   {
     "url": "static/css/0.7e77756c.chunk.css",
@@ -56,8 +56,8 @@ if (typeof importScripts === 'function') {
     "revision": "512902321aeefbc00da4b717bd418fbf"
   },
   {
-    "url": "static/css/main.48c31966.chunk.css",
-    "revision": "cafeb59c71c4a95f9dde66f612de2474"
+    "url": "static/css/main.1973a39f.chunk.css",
+    "revision": "625f1a873adb5fb3abd2f5521cbfb3ba"
   },
   {
     "url": "static/media/icomoon.108516dd.svg",
@@ -320,8 +320,8 @@ if (typeof importScripts === 'function') {
     "revision": "d44a5f6c87d06eb7ea883c634b0e64b6"
   },
   {
-    "url": "static/js/main.296b074e.chunk.js",
-    "revision": "61b35a6d8b6c8ad2d7ccc49ce88419e9"
+    "url": "static/js/main.57784994.chunk.js",
+    "revision": "41796afd48d50debb7f0bee6daadb7cc"
   },
   {
     "url": "static/js/runtime-main.31d9dcff.js",
